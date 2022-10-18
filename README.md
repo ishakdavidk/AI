@@ -1,1 +1,1 @@
-# AI
+## AI - Prof. Kang Dae-Ki
